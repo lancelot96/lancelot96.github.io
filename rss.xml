@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Yuyy</title>
+        <link>https://lancelot96.github.io/</link>
+        <description>一个专注于计算机科学与技术和其他流行趋势的个人博客。</description>
+        <generator>Zola</generator>
+        <language>cn</language>
+        <atom:link href="https://lancelot96.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 06 Jul 2022 00:00:00 +0000</lastBuildDate>
+        <item>
+            <title>关于</title>
+            <pubDate>Wed, 06 Jul 2022 00:00:00 +0000</pubDate>
+            <link>https://lancelot96.github.io/about/</link>
+            <guid>https://lancelot96.github.io/about/</guid>
+            <description>&lt;h2 id=&quot;guan-yu-bo-ke&quot;&gt;关于博客&lt;&#x2F;h2&gt;
+&lt;p&gt;根据 Ebbinghaus 的遗忘曲线，如果不加以复习，过去一周的事情会变得非常模糊。因此，本博客尝试记录并分享个人学习中的所得所想，包括目前正在使用的技术或者软件开发过程中遇到的一些趣事。&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;guan-yu-wo&quot;&gt;关于我&lt;&#x2F;h2&gt;
+&lt;p&gt;大家都叫我 yuyy，自西安电子科技大学获得硕士学位，目前在一家国企从事软件开发工作。在业余时间，我喜欢学习各种新颖的技术，这通常使我感到快乐。另外，尽管本人非常社恐，但仍然渴望与志同道合的人建立联系。&lt;&#x2F;p&gt;
+</description>
+        </item>
+    </channel>
+</rss>
